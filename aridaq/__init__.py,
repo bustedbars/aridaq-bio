@@ -1,0 +1,8 @@
+"""Aridaq Bio Core Package."""
+
+__version__ = "1.0.0"
+
+from aridaq.simulation.engine import AridaqEngine
+from aridaq.molecular.parser import SequenceMatrix
+
+__all__ = ["AridaqEngine", "SequenceMatrix"]
