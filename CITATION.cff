@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you utilize the Aridaq Protocol in your research, please cite it using these metadata."
+authors:
+  - family-names: "Langat"
+    given-names: "Nadia"
+title: "Aridaq Bio: Screened Potential and Manifold Reduction Engine for Biomolecular Search"
+version: "1.0.0"
+date-released: 2026-08-20
+url: "https://github.com/nadialangat/aridaq-bio"
